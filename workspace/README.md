@@ -1,3 +1,14 @@
+# Workspace Folder
+- This folder holds overall coding workspace of the "Project: DA-JobMarket" which includes the followings:
+- Part I
+    - Basic Data Search
+    - Data Preprocessing
+    - Exploratory Data Analysis
+
+---
+  
+# 세부 작업내역 및 결과 요약
+## Part I
 ### 데이터 탐색 및 전처리
 - 데이터 탐색: 분석 대상 설정
     - 데이터 탐색 결과, 5월 유저 하락에 대한 내용 확인
